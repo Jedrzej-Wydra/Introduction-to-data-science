@@ -4,3 +4,6 @@
 3. [laboratories 4](https://colab.research.google.com/drive/1RAyvHdZ2aS6jE4DTIIMFOvmjq_eD7Tqz?usp=sharing)
 4. [laboratories 5](https://colab.research.google.com/drive/1b0-BC7IBbFNuPbePqFGkDeWHz6PgIQEP?usp=sharing)
 5. [laboratories 6](https://colab.research.google.com/drive/1SDjs0wqhiqooJmT2SPd0yCLmU5sVKkpj?usp=sharing)
+6. [laboratories 7 (exercises)](https://colab.research.google.com/drive/1L-ENYcaopSWKiwtUMlE2oLmZlgiqoY6k?usp=sharing)
+7. [laboratories 7 (part 1)](https://colab.research.google.com/drive/1gsS3P6cLiApoFnbHMRKU59MnYEjpmXI_?usp=sharing)
+8. [laboratories 7 (part 2)](https://colab.research.google.com/drive/1q34z2IqL6NxASvcnKfH94bygJP88x7mo?usp=sharing)
