@@ -7,5 +7,6 @@
 6. [laboratories 7 (exercises)](https://colab.research.google.com/drive/1L-ENYcaopSWKiwtUMlE2oLmZlgiqoY6k?usp=sharing)
 7. [laboratories 7 (part 1)](https://colab.research.google.com/drive/1gsS3P6cLiApoFnbHMRKU59MnYEjpmXI_?usp=sharing)
 8. [laboratories 7 (part 2)](https://colab.research.google.com/drive/1q34z2IqL6NxASvcnKfH94bygJP88x7mo?usp=sharing)
+9. [laboratories 9](https://colab.research.google.com/drive/1sRlm5rwJQWtF0i1LkOTjXH7tnMBElsTb?usp=sharing)
 
 Instead of laboratories 8, we had a [live-coding exam](https://colab.research.google.com/drive/1GHjotCxOKbS0Y_9BAWiVz2lt-y9Dg2O-?usp=sharing).
