@@ -9,5 +9,6 @@
 8. [laboratories 7 (part 2)](https://colab.research.google.com/drive/1q34z2IqL6NxASvcnKfH94bygJP88x7mo?usp=sharing)
 9. [laboratories 9](https://colab.research.google.com/drive/1sRlm5rwJQWtF0i1LkOTjXH7tnMBElsTb?usp=sharing)
 10. [laboratories 10](https://colab.research.google.com/drive/1KEGTess07xOT0zHZts2bsbnpR14umwEE?usp=sharing)
+11. [laboratories 11](https://colab.research.google.com/drive/1RhlIZJF9OfXiJmsXv8NYlMS0b0j7gTC7?usp=sharing)
 
 Instead of laboratories 8, we had a [live-coding exam](https://colab.research.google.com/drive/1GHjotCxOKbS0Y_9BAWiVz2lt-y9Dg2O-?usp=sharing).
